@@ -1,0 +1,2 @@
+# password_checker_project
+This is a project done in Python, which consists of checking if the entered passwords have been leaked somewhere. It was done using the pnwed api. To run the program you only have to download it (or clone it), from the terminal in the directory where the program is located, you can run it with the command python checkmypass followed by the passwords you want to verify followed by spaces.
